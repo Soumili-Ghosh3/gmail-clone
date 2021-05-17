@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import Compose from '../buttons/Compose'
 
 function Sidebar() {
     return (
@@ -9,7 +10,9 @@ function Sidebar() {
             </ComposeWrapper>
 
             <SideButtonsWrapper>
-
+                {
+                    
+                }
             </SideButtonsWrapper>
 
             <MeetWrapper>
