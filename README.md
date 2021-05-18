@@ -1,3 +1,3 @@
 # Gmail Clone
 
-This is a Gmail Clone where u can checkout the emails.
+This is a Gmail Clone where you can checkout the emails.
