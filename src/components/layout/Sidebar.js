@@ -6,6 +6,7 @@ import VideocamIcon from '@material-ui/icons/Videocam';
 import KeyboardIcon from '@material-ui/icons/Keyboard';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import { bottomIcons } from '../../data/BottomIconsData'
+
 function Sidebar() {
     return (
         <Wrapper>
