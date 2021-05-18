@@ -5,7 +5,7 @@ export const emailData  = [
         subject: 'Google Cloud Program',
         message: 'Congratulations!!!!!',
         received: '10:30',
-        read: 'true'
+        read: 'true',
     },
 
     {
@@ -14,7 +14,7 @@ export const emailData  = [
         subject: 'Lets catch up',
         message: 'Yooo Broo',
         received: '21:12',
-        read: 'false'
+        read: 'false',
     },
 
     {
@@ -23,6 +23,6 @@ export const emailData  = [
         subject: 'Hello',
         message: 'What are u doing?',
         received: '17:50',
-        read: 'true'
+        read: 'true',
     }
 ]

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import CheckBoxOutlineBlankIcon from '@material-ui/icons/CheckBoxOutlineBlank';
+import {Checkbox} from '@material-ui/core'
 import RefreshIcon from '@material-ui/icons/Refresh';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import IconButton from '@material-ui/core/IconButton';
@@ -12,7 +12,7 @@ function EmailsView() {
         <Wrapper>
             <TopWrapper>
                 <IconButton>
-                   <CheckBoxOutlineBlankIcon />
+                   <Checkbox />
                 </IconButton>
     
                 <IconButton>
